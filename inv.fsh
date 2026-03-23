@@ -1,0 +1,6 @@
+type
+    (
+    name, value;
+    name1, [value. value1];
+    )
+::
