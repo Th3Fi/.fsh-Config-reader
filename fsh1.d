@@ -22,6 +22,7 @@ void main() {
         while(DT==1){
             ln = strip(file.readln());
             if(ln==")"){
+                DT=0;
                 break;
             } else if(ln=="::"){
                 ln="";
