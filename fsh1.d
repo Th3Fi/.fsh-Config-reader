@@ -34,5 +34,7 @@ void main() {
             ln=ln.replace("."," , ");
             writeln(TP ~ ln);
         }
+    if(DT==3){
+        break;
     }
 }
